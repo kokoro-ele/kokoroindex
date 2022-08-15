@@ -7,7 +7,7 @@ yarn-error.log*
 lerna-debug.log*
 
 # private
-.config/
+config/
 # build
 归档.zip
 
