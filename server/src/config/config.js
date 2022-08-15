@@ -19,7 +19,7 @@ module.exports = {
   },
   // 百度翻译配置，自行申请免费版即可（https://fanyi-api.baidu.com/）
   baiduFanYiConfig: {
-    appid: "11",
+    appid: "1yyyyy111111111111111",
     key: "",
   },
 };
